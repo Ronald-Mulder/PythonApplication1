@@ -1,4 +1,3 @@
-from PyQt4 import uic
 import sys
 import os
 import shutil

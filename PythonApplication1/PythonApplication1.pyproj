@@ -5,7 +5,8 @@
     <ProjectGuid>e55744f4-83bb-432a-977d-a46ee731049f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>PythonApplication1.py</StartupFile>
-    <SearchPath>..\..\..\..\..\Program Files\QGIS 2.18\apps\Python27\Lib\site-packages</SearchPath>
+    <SearchPath>
+    </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>PythonApplication1</Name>
