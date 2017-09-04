@@ -10,7 +10,7 @@ from StringIO import StringIO
 def main():
   """
   hoofdfunctie die 
-  als eerste gestart wordt!
+  als eerste gestart wordt! erg handig!
   """
   if len(sys.argv) > 1:
     print 'Hello there', sys.argv[1]
